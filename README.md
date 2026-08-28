@@ -113,7 +113,7 @@
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
             <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
-          <a href="https://github.com/KaueCMP2/TechStock-Fullstack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+          <a href="https://github.com/EuKaueCMP/TechStock-Fullstack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
       </td>
       <!-- Projeto 2 -->
@@ -129,7 +129,7 @@
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
             <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
-          <a href="https://github.com/KaueCMP2/RoyalGames-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+          <a href="https://github.com/EuKaueCMP/RoyalGames-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
       </td>
     </tr>
@@ -147,7 +147,7 @@
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
             <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
-          <a href="https://github.com/KaueCMP2/VhBurguer-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+          <a href="https://github.com/EuKaueCMP/VhBurguer-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
       </td>
       <!-- Projeto 4 -->
@@ -163,7 +163,7 @@
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
             <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
-          <a href="https://github.com/KaueCMP2/GestaoPatrimonios-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+          <a href="https://github.com/EuKaueCMP/GestaoPatrimonios-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
       </td>
     </tr>
@@ -186,14 +186,14 @@
       <td align="center" width="50%" valign="middle">
        <img
           height="200"
-          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=KaueCMP2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&icon_color=00CFFF&border_color=2977F7"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&icon_color=00CFFF&border_color=2977F7"
         />
       </td>
       <!-- Top Languages (Donut) -->
       <td align="center" width="50%" valign="middle">
         <img
           height="200"
-          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=KaueCMP2&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&border_color=2977F7"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=EuKaueCMP&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&border_color=2977F7"
         />
       </td>
     </tr>
@@ -202,7 +202,7 @@
   <br>
 
   <!-- Streak Stats (TokyoNight Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueCMP2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuKaueCMP&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
 </div>
 
 <br><br>
@@ -215,7 +215,7 @@
   
   <p>&nbsp;</p>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaueCMP2&bg_color=16161E&color=2977F7&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EuKaueCMP&bg_color=16161E&color=2977F7&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 <br><br>
@@ -245,5 +245,5 @@
 <br>
 
 <div align="center">
-  <p style="color: #565F89; font-size: 0.85em;"><i>@KaueCMP2</i></p>
+  <p style="color: #565F89; font-size: 0.85em;"><i>@EuKaueCMP</i></p>
 </div>
