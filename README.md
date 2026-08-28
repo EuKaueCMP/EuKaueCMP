@@ -202,7 +202,7 @@
   <br>
 
   <!-- Streak Stats (TokyoNight Theme) -->
-  <img src="https://streak-stats.demolab.com?user=EuKaueCMP&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
+  <img src="https://streak-stats.demolab.com?user=EuKaueCMP&theme=tokyonight" alt="GitHub Streak" width="85%" />
 </div>
 
 <br><br>
