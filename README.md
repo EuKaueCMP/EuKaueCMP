@@ -202,11 +202,7 @@
   <br>
 
 <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com/?user=EuKaueCMP&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="85%"
-  />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EuKaueCMP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <br><br>
