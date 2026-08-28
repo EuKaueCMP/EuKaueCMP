@@ -201,25 +201,6 @@
 
   <br>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EuKaueCMP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</div>
-
-<br><br>
-
-<!-- Seção: Gráfico de Atividade -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Hist%C3%B3rico+de+Atividade;" alt="Typing SVG" />
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
-  <p>&nbsp;</p>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EuKaueCMP&bg_color=16161E&color=2977F7&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
-</div>
-
-<br><br>
-
 <!-- Seção: Objetivos Atuais -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Foco+e+Objetivos+%7C+2026;" alt="Typing SVG" />
