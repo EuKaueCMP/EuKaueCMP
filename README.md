@@ -7,9 +7,7 @@
 
   <p>&nbsp;</p>
   
-  <p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;">
-    <strong>Desenvolvedor Full Stack</strong> especializado no ecossistema <strong>.NET</strong>, com sólida experiência na criação de soluções escaláveis e resilientes. Atuo no desenvolvimento de APIs RESTful robustas usando <strong>C# e ASP.NET Core</strong>, mapeamento de banco de dados de alta performance com <strong>SQL Server / EF Core</strong>, e criação de interfaces modernas e responsivas utilizando <strong>Next.js, React e TypeScript</strong>.
-  </p>
+<p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;"> <strong>Desenvolvedor Full Stack</strong> com foco no ecossistema <strong>.NET</strong>, desenvolvendo projetos com <strong>C#, ASP.NET Core Web API, Entity Framework Core e SQL Server</strong>. No front-end, possuo familiaridade com <strong>React, Next.js e TypeScript</strong>, além de explorar <strong>React Native</strong> para desenvolvimento mobile. Boas práticas de desenvolvimento, organização de código e construção de aplicações completas, buscando evoluir continuamente por meio de projetos práticos. </p>
 
   <br>
 
@@ -37,12 +35,13 @@
 ### Back-End & Data
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="background-color: #dfdfdf; padding: 5px; border-radius: 10px; " />
 
 </td>
 
 <td align="center" width="33%">
 
-### Front-End & UX/UI
+### Front-End 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
 
@@ -52,7 +51,8 @@
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,notion" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,figma,notion" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo" style="background-color: #ebebeb; padding: 10px; border-radius: 10px;"/>
 
 </td>
 </tr>
