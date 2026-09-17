@@ -89,16 +89,6 @@
 
 <br><br>
 
-<!-- Seção: Projetos em Destaque -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Projetos+em+Destaque;" alt="Typing SVG" />
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
-  <p>&nbsp;</p>
-
-<br><br>
-
 <!-- Seção: Análise do GitHub -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=M%C3%A9tricas+%26+An%C3%A1lises;" alt="Typing SVG" />
