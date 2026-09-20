@@ -23,11 +23,7 @@
     style="max-width: 90%; font-size: 1.4em; line-height: 1.6; color: #E4E4E7;"
   >
     Full-Stack Developer focused on the
-    <strong style="color: #79A9FF;">.NET ecosystem</strong>,
-    working with
-    <strong style="color: #79A9FF;">
-      C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server
-    </strong>.
+    <strong style="color: #79A9FF;">.NET ecosystem</strong>, working with <strong style="color: #79A9FF;">C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server.</strong>
     On the front end, I have experience with
     <strong style="color: #79A9FF;">
       React, Next.js, and Javascript/TypeScript
