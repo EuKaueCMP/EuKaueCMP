@@ -117,10 +117,8 @@
     />
     <img
       src="./assets/sqlserver.svg"
-      width=""
-      height="40"
+      style="width:48px;height:48px"
       alt="Microsoft SQL Server"
-      style="background-color:#1F2430; padding:5px; border-radius:10px; vertical-align: middle;"
     />
   </p>
 </td>
