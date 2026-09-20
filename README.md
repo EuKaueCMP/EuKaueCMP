@@ -2,7 +2,6 @@
   <!-- Cabeçalho Dinâmico Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=3000&color=2977F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%AA+Sergio;Desenvolvedor+Full+Stack+C%23+%2F+.NET;" alt="Typing SVG" />
 
-  <!-- Divisor Gradiente -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
 
   <p>&nbsp;</p>
