@@ -80,80 +80,109 @@
 <br><br>
 
 
-<!-- Ferramentas e tecnologias -->
-
+<!-- Ferramentas e Tecnologias -->
+<!-- Ferramentas e Tecnologias -->
 <div align="center">
 
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Tools+and+Technologies"
-    alt="Typing SVG"
+    alt="Tools and Technologies"
   />
 
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
     width="100%"
-    align="center"
   />
 
   <p>&nbsp;</p>
 
-
-  <!-- Tabela: Ferramentas e tecnologias -->
-
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <!-- ==================== BACK-END ==================== -->
-     <td align="center" width="33%" valign="top">
-  <a href="https://git.io/typing-svg">
+  <!-- ==================== BACKEND & DATA ==================== -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Backend+%26+Data"
+        alt="Backend & Data"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=dotnet" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Backend+%26+Data"
-      alt="Typing SVG"
-    />
-  </a>
-  <p align="center" style="line-height: 1.5;">
-    <img
-      src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql"
-      style="vertical-align: middle;"
-    />
-    <img
-      src="./assets/sqlserver.svg"
-      style="width:48px;height:48px"
-      alt="Microsoft SQL Server"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+      width="48"
+      height="48"
+      alt="SQL Server"
+      style="background-color:#1F2430; padding:6px; border-radius:10px; vertical-align: middle; box-sizing: border-box;"
     />
   </p>
-</td>
-      <!-- ==================== FRONT-END ==================== -->
-      <td align="center" width="33%" valign="top">
-        <a href="https://git.io/typing-svg">
-          <img
-            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Frontend+%26+Mobile"
-            alt="Typing SVG"
-          />
-        </a>
-        <p align="center">
-          <img
-            src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,react&perline=5"
-          />
-        </p>
-      </td>
-      <!-- ==================== FERRAMENTAS ==================== -->
-      <td align="center" width="33%" valign="top">
-        <a href="https://git.io/typing-svg">
-          <img
-            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Tools+%26+Cloud"
-            alt="Typing SVG"
-          />
-        </a>
-        <p align="center">
-          <img
-            src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma,notion&perline=5"
-          />
-        </p>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+  <p>&nbsp;</p>
+
+  <!-- ==================== FRONTEND & MOBILE ==================== -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Frontend+%26+Mobile"
+        alt="Frontend & Mobile"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" style="vertical-align: middle;" />
+  </p>
+
+  <p>&nbsp;</p>
+
+<!-- ==================== TOOLS & CLOUD ==================== -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Tools+%26+Cloud"
+        alt="Tools & Cloud"
+      />
+    </a>
+  </p>
+  <!-- Linha 1 de ícones da cloud -->
+  <p align="center" style="margin: 6px 0;">
+    <img src="https://skillicons.dev/icons?i=git" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=linux" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=notion" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="./assets/trello.svg" style="vertical-align: middle;" />
+  </p>
+  <!-- Linha 2 de ícones da cloud -->
+  <p align="center" style="margin: 6px 0;">
+  </p>
+
 </div>
+<br><br>
+
 
 <!-- ====================================================== -->
 <!-- CERTIFICATIONS                                         -->
