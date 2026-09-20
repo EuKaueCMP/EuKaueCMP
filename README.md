@@ -163,19 +163,14 @@
           <img
             src="https://skillicons.dev/icons?i=docker,figma,notion"
           />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
-            width="33"
-            height="33"
-            alt="Trello"
-            style="
-              background-color:#1F2430;
-              padding:8px;
-              border-radius:10px;
-              vertical-align:top;
-              margin-left:8px;
-            "
-          />
+          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="10" fill="#1F2430"/>
+  
+  <rect x="13" y="11" width="22" height="26" rx="3" fill="#0065F2"/>
+  
+  <rect x="17" y="15" width="5" height="18" rx="1.5" fill="#1F2430"/>
+  <rect x="26" y="15" width="5" height="13" rx="1.5" fill="#1F2430"/>
+</svg>
         </p>
       </td>
     </tr>
@@ -271,7 +266,7 @@
     align="center"
   />
 
-  <p>&nbsp;</p>
+  <br><br>
 
   <table
     border="0"
