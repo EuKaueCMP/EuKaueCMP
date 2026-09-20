@@ -62,19 +62,19 @@
     src="./assets/Huey Freeman I had to cry in that episode.gif"
     alt="Huey Freeman"
     width="150"
-    style="vertical-align: middle; margin-right: 20px;"
+    style="vertical-align: middle; margin: 0 10px;"
   />
   <img
     src="./assets/Huey Freeman I had to cry in that episode.gif"
     alt="Huey Freeman"
     width="220"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; margin: 0 10px;"
   />
   <img
     src="./assets/Huey Freeman I had to cry in that episode.gif"
     alt="Huey Freeman"
     width="150"
-    style="vertical-align: middle; margin-left: 20px;"
+    style="vertical-align: middle; margin: 0 10px;"
   />
 </p>
 
