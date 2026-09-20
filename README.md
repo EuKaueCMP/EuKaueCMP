@@ -164,19 +164,23 @@
           <img
             src="https://skillicons.dev/icons?i=docker,figma,notion"
           />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
-            width="33"
-            height="33"
-            alt="Trello"
+          <span
             style="
+              display:inline-block;
               background-color:#1F2430;
               padding:8px;
               border-radius:10px;
               vertical-align:top;
               margin-left:10px;
             "
-          />
+          >
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+              width="33"
+              height="33"
+              alt="Trello"
+            />
+          </span>
         </p>
       </td>
     </tr>
