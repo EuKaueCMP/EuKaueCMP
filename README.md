@@ -49,7 +49,6 @@
   &nbsp;&bull;&nbsp;
   <code style="color: #79A9FF;">Design Patterns</code>
   &nbsp;&bull;&nbsp;
-
   <code style="color: #79A9FF;">SOLID & OOP</code>
 
 </div>
