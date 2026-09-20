@@ -275,21 +275,21 @@
 
 <p align="center">
    <img
-    height="100"
+    height="110"
      align="center"
     src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&icon_color=79A9FF&border_color=689FF7"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
-          height="120"
+          height="110"
     align="center"
           src="https://github-readme-streak-stats.herokuapp.com/?user=EuKaueCMP&hide_border=true&background=16161E&stroke=689FF7&ring=689FF7&fire=79A9FF&currStreakNum=F2F4F8&sideNums=E4E4E7&currStreakLabel=689FF7&sideLabels=C7D0E3&dates=8B96AB"
           alt="GitHub Streak"
         />
   &nbsp;&nbsp;
   <img
-          height="100"
+          height="110"
     align="center"
           src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=EuKaueCMP&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&border_color=689FF7"
           alt="Most Used Languages"
