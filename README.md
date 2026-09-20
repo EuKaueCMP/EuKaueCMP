@@ -57,29 +57,26 @@
 
 
 <!-- Freeman GIF's -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 0 auto;">
-  <div style="flex: 1; text-align: left;">
-    <img
-      src="./assets/Huey Freeman I had to cry in that episode.gif"
-      alt="Huey Freeman"
-      width="150"
-    />
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img
-      src="./assets/Huey Freeman I had to cry in that episode.gif"
-      alt="Huey Freeman"
-      width="220"
-    />
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img
-      src="./assets/Huey Freeman I had to cry in that episode.gif"
-      alt="Huey Freeman"
-      width="150"
-    />
-  </div>
-</div>
+<p align="center">
+  <img
+    src="./assets/Huey Freeman I had to cry in that episode.gif"
+    alt="Huey Freeman"
+    width="150"
+    style="vertical-align: middle; margin-right: 20px;"
+  />
+  <img
+    src="./assets/Huey Freeman I had to cry in that episode.gif"
+    alt="Huey Freeman"
+    width="220"
+    style="vertical-align: middle;"
+  />
+  <img
+    src="./assets/Huey Freeman I had to cry in that episode.gif"
+    alt="Huey Freeman"
+    width="150"
+    style="vertical-align: middle; margin-left: 20px;"
+  />
+</p>
 
 <br><br>
 
