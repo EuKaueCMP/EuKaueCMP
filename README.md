@@ -179,10 +179,7 @@
   <!-- Linha 2 de ícones da cloud -->
   <p align="center" style="margin: 6px 0;">
   </p>
-
 </div>
-<br><br>
-
 
 <!-- ====================================================== -->
 <!-- CERTIFICATIONS                                         -->
