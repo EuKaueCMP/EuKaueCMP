@@ -1,86 +1,164 @@
-<div align="center">
-  <!-- Cabeçalho Dinâmico Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=3000&color=2977F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%AA+Sergio;Desenvolvedor+Full+Stack+C%23+%2F+.NET;" alt="Typing SVG" />
+<!-- Título / Abertura -->
 
-  <!-- Divisor Gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
+<div align="center">
+
+  <!-- Cabeçalho com typing svg -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Hello+I%27m+Kau%C3%AACMP!"
+    alt="Typing SVG"
+  />
+
+  <!-- Barra -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+    width="100%"
+    align="center"
+  />
 
   <p>&nbsp;</p>
-  
-<p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;"> <strong>Desenvolvedor Full Stack</strong> com foco no ecossistema <strong>.NET</strong>, desenvolvendo projetos com <strong>C#, ASP.NET Core Web API, Entity Framework Core e SQL Server</strong>. No front-end, possuo familiaridade com <strong>React, Next.js e TypeScript</strong>, além de explorar <strong>React Native</strong> para desenvolvimento mobile. Boas práticas de desenvolvimento, organização de código e construção de aplicações completas, buscando evoluir continuamente por meio de projetos práticos. </p>
+
+  <!-- Descrição -->
+  <p
+    align="center"
+    style="max-width: 90%; font-size: 1.4em; line-height: 1.6; color: #E4E4E7;"
+  >
+    Full-Stack Developer focused on the
+    <strong style="color: #79A9FF;">.NET ecosystem</strong>,
+    working with
+    <strong style="color: #79A9FF;">
+      C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server
+    </strong>.
+    On the front end, I have experience with
+    <strong style="color: #79A9FF;">
+      React, Next.js, and Javascript/TypeScript
+    </strong>,
+    and I'm also exploring
+    <strong style="color: #79A9FF;">React Native</strong>
+    for mobile development.
+    I enjoy keeping things organized, learning through practical projects,
+    and improving a little with each one.
+  </p>
 
   <br>
 
-  <!-- Chips de Foco Rápido -->
-  <code>Clean Architecture</code> &nbsp;&bull;&nbsp; 
-  <code>Domain-Driven Design (DDD)</code> &nbsp;&bull;&nbsp; 
-  <code>Autenticação JWT</code> &nbsp;&bull;&nbsp; 
-  <code>SOLID & POO</code>
+  <!-- Chips de foco rápido -->
+
+  <code style="color: #79A9FF;">Clean Architecture</code>
+  &nbsp;&bull;&nbsp
+  <code style="color: #79A9FF;">Domain-Driven Design (DDD)</code>
+  &nbsp;&bull;&nbsp;
+  <code style="color: #79A9FF;">Design Patterns</code>
+  &nbsp;&bull;&nbsp;
+
+  <code style="color: #79A9FF;">SOLID & OOP</code>
+
 </div>
 
 <br><br>
 
-<!-- Seção: Tecnologias e Ferramentas -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Tecnologias+e+Ferramentas;" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
-  <p>&nbsp;</p>
+<!-- Freeman GIF's -->
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### Back-End & Data
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="background-color: #dfdfdf; padding: 5px; border-radius: 10px; " />
-
-</td>
-
-<td align="center" width="33%">
-
-### Front-End 
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-
-</td>
-
-<td align="center" width="33%">
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,figma,notion" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo" style="background-color: #ebebeb; padding: 10px; border-radius: 10px;"/>
-
-</td>
-</tr>
+<table width="80%" border="0" align="center">
+  <tr>
+    <td align="left" width="30%">
+      <img
+        src="./assets/Huey Freeman I had to cry in that episode.gif"
+        alt="Huey Freeman"
+        width="150"
+      />
+    </td>
+    <td align="center" width="40%">
+      <img
+        src="./assets/Huey Freeman I had to cry in that episode.gif"
+        alt="Huey Freeman"
+        width="220"
+      />
+    </td>
+    <td align="right" width="30%">
+      <img
+        src="./assets/Huey Freeman I had to cry in that episode.gif"
+        alt="Huey Freeman"
+        width="150"
+      />
+    </td>
+  </tr>
 </table>
-</div>
 
 <br><br>
 
-<!-- Seção: Certificações -->
+
+<!-- Ferramentas e tecnologias -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Certifica%C3%A7%C3%B5es;" alt="Typing SVG" />
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Tools+and+Technologies"
+    alt="Typing SVG"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+    width="100%"
+    align="center"
+  />
+
   <p>&nbsp;</p>
 
-  <a href="https://www.freecodecamp.org/certification/kauecmp/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20%26%20freeCodeCamp-Foundational%20C%23-2977F7?style=for-the-badge&logo=csharp&logoColor=white" alt="Certificação C#" />
-  </a>
 
-  <br><br>
+  <!-- Tabela: Ferramentas e tecnologias -->
 
-  <table width="80%" border="0" style="border: 1px solid #2977F7; border-radius: 12px; background-color: #16161E; padding: 15px; text-align: left;">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td>
-        <strong style="color: #2977F7; font-size: 1.1em;">🎓 Foundational C# Certification</strong><br>
-        <p style="color: #A9B1D6; margin-top: 8px; font-size: 0.95em;">
-          Emitida pela <strong>Microsoft</strong> em parceria com a <strong>freeCodeCamp</strong>. Valida competências fundamentais de engenharia de software, princípios de orientação a objetos (OOP), gerenciamento de memória em .NET, tratamento de exceções, manipulação avançada de dados e sintaxe moderna do C#.
+      <!-- ==================== BACK-END ==================== -->
+     <td align="center" width="33%" valign="top">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Backend+%26+Data"
+      alt="Typing SVG"
+    />
+  </a>
+  <p align="center" style="line-height: 1.5;">
+    <img
+      src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql"
+      style="vertical-align: middle;"
+    />
+    <img
+      src="./assets/sqlserver.svg"
+      width=""
+      height="40"
+      alt="Microsoft SQL Server"
+      style="background-color:#1F2430; padding:5px; border-radius:10px; vertical-align: middle;"
+    />
+  </p>
+</td>
+      <!-- ==================== FRONT-END ==================== -->
+      <td align="center" width="33%" valign="top">
+        <a href="https://git.io/typing-svg">
+          <img
+            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Frontend+%26+Mobile"
+            alt="Typing SVG"
+          />
+        </a>
+        <p align="center">
+          <img
+            src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,react&perline=5"
+          />
+        </p>
+      </td>
+      <!-- ==================== FERRAMENTAS ==================== -->
+      <td align="center" width="33%" valign="top">
+        <a href="https://git.io/typing-svg">
+          <img
+            src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=01&pause=1000&color=689FF7&width=435&center=true&vCenter=true&lines=Tools+%26+Cloud"
+            alt="Typing SVG"
+          />
+        </a>
+        <p align="center">
+          <img
+            src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma,notion&perline=5"
+          />
+        </p>
         </p>
       </td>
     </tr>
@@ -89,51 +167,197 @@
 
 <br><br>
 
-<!-- Seção: Análise do GitHub -->
+
+<!-- ====================================================== -->
+<!-- CERTIFICATIONS                                         -->
+<!-- ====================================================== -->
+
+<!--
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=M%C3%A9tricas+%26+An%C3%A1lises;" alt="Typing SVG" />
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Certifications"
+    alt="Typing SVG"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+    width="100%"
+    align="center"
+  />
+
   <p>&nbsp;</p>
 
-  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+  <a
+    href="https://www.freecodecamp.org/certification/kauecmp/foundational-c-sharp-with-microsoft"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Microsoft%20%26%20freeCodeCamp-Foundational%20C%23-2977F7?style=for-the-badge&logo=csharp&logoColor=white"
+      alt="Foundational C# Certification"
+    />
+  </a>
+
+  <br><br>
+
+  <table
+    width="80%"
+    border="0"
+    style="
+      border:1px solid #689FF7;
+      border-radius:12px;
+      background-color:#16161E;
+      padding:15px;
+      text-align:left;
+    "
+  >
     <tr>
-      <!-- Cartão Principal de Métricas do Github (TokyoNight simplificado para maior compatibilidade) -->
-      <td align="center" width="50%" valign="middle">
-       <img
-          height="200"
-          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&icon_color=00CFFF&border_color=2977F7"
+      <td>
+        <strong style="color:#79A9FF; font-size:1.1em;">
+          🎓 Foundational C# Certification
+        </strong>
+
+        <br>
+
+        <p style="color:#C7D0E3; margin-top:8px; font-size:0.95em;">
+          Issued by <strong style="color:#E4E4E7;">Microsoft</strong>
+          in partnership with
+          <strong style="color:#E4E4E7;">freeCodeCamp</strong>.
+          Validates fundamental knowledge of C#,
+          object-oriented programming, .NET memory management,
+          exception handling, data manipulation, and modern C# syntax.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+-->
+
+<br><br>
+
+
+<!-- ====================================================== -->
+<!-- GITHUB STATS                                           -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Github+Stats"
+    alt="Typing SVG"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+    width="100%"
+    align="center"
+  />
+
+  <br>
+
+  <table
+    border="0"
+    cellpadding="0"
+    cellspacing="0"
+    width="100%"
+  >
+    <tr>
+      <!-- GitHub Stats -->
+      <td align="center" width="32%" valign="middle">
+        <img
+          height="195"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&icon_color=79A9FF&border_color=689FF7"
+          alt="GitHub Stats"
         />
       </td>
-      <!-- Top Languages (Donut) -->
-      <td align="center" width="50%" valign="middle">
+      <!-- GitHub Streak -->
+      <td align="center" width="38%" valign="middle">
         <img
-          height="200"
-          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=EuKaueCMP&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&border_color=2977F7"
+          height="195"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=EuKaueCMP&hide_border=true&background=16161E&stroke=689FF7&ring=689FF7&fire=79A9FF&currStreakNum=F2F4F8&sideNums=E4E4E7&currStreakLabel=689FF7&sideLabels=C7D0E3&dates=8B96AB"
+          alt="GitHub Streak"
+        />
+      </td>
+      <!-- Top Languages -->
+      <td align="center" width="30%" valign="middle">
+        <img
+          height="195"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=EuKaueCMP&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&border_color=689FF7"
+          alt="Most Used Languages"
         />
       </td>
     </tr>
   </table>
+</div>
 
-  <br>
 
-<!-- Seção: Objetivos Atuais -->
+<br><br>
+
+
+<!-- ====================================================== -->
+<!-- 2026 GOALS                                             -->
+<!-- ====================================================== -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Foco+e+Objetivos+%7C+2026;" alt="Typing SVG" />
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
-  
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=2026+Goals"
+    alt="Typing SVG"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+    width="100%"
+    align="center"
+  />
+
   <p>&nbsp;</p>
 
-  <table width="85%" border="0" cellpadding="8" style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 12px; background-color: #16161E; text-align: left;">
+  <table
+    width="80%"
+    border="0"
+    cellpadding="8"
+    style="
+      border:1px solid rgba(104,159,247,0.3);
+      border-radius:12px;
+      background-color:#16161E;
+      text-align:left;
+    "
+  >
     <tr>
       <td>
-        <ul style="list-style-type: '🚀 '; padding-left: 20px; color: #A9B1D6; line-height: 1.8; font-size: 1.05em;">
-          <li>Primeira oportunidade de mercado como Desenvolvedor Full Stack</li>
-          <li>Domínio avançado de padrões com ASP.NET Core & EF Core (CQRS, Repository Pattern)</li>
-          <li>Aprofundamento prático em Clean Architecture, Domain-Driven Design (DDD) e TDD</li>
-          <li>Desenvolvimento de APIs robustas e arquiteturas de backend altamente escaláveis</li>
+        <ul
+          style="
+            padding-left:20px;
+            color:#C7D0E3;
+            line-height:1.8;
+            font-size:1.05em;
+          "
+        >
+          <li>
+            Find my first opportunity in the software development market
+          </li>
+          <li>
+            Practice design patterns with
+            <strong style="color:#79A9FF;">ASP.NET Core</strong>
+            and
+            <strong style="color:#79A9FF;">EF Core</strong>,
+            including CQRS and Repository Pattern
+          </li>
+          <li>
+            Deepen my practical understanding of
+            <strong style="color:#79A9FF;">
+              Clean Architecture, Domain-Driven Design (DDD), and TDD
+            </strong>
+          </li>
+          <li>
+            Improve my
+            <strong style="color:#79A9FF;">
+              API design and backend architecture
+            </strong>
+            skills
+          </li>
         </ul>
       </td>
     </tr>
@@ -142,6 +366,11 @@
 
 <br>
 
+<!-- Footer -->
 <div align="center">
-  <p style="color: #565F89; font-size: 0.85em;"><i>@EuKaueCMP</i></p>
+
+  <p style="color:#8B96AB; font-size:0.85em;">
+    <i>@EuKaueCMP</i>
+  </p>
+
 </div>
