@@ -61,6 +61,7 @@
     width="150"
     style="vertical-align: center; margin: 0 10px;"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="./assets/Huey Freeman I had to cry in that episode.gif"
     alt="Huey Freeman"
@@ -68,6 +69,7 @@
     width="220"
     style="vertical-align: center; margin: 0 10px;"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="./assets/Huey Freeman I had to cry in that episode.gif"
     alt="Huey Freeman"
@@ -96,11 +98,37 @@
 
   <p>&nbsp;</p>
 
+  <!-- ==================== FRONTEND & MOBILE ==================== -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Frontend+%26+Mobile"
+        alt="Frontend & Mobile"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" style="vertical-align: middle;" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" style="vertical-align: middle;" />
+  </p>
+
+  <p>&nbsp;</p>
+
+
   <!-- ==================== BACKEND & DATA ==================== -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Backend+%26+Data"
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Backend+%26+Data"
         alt="Backend & Data"
       />
     </a>
@@ -124,37 +152,12 @@
   </p>
 
   <p>&nbsp;</p>
-
-  <!-- ==================== FRONTEND & MOBILE ==================== -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Frontend+%26+Mobile"
-        alt="Frontend & Mobile"
-      />
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=html" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" style="vertical-align: middle;" />
-  </p>
-
-  <p>&nbsp;</p>
-
+  
 <!-- ==================== TOOLS & CLOUD ==================== -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Tools+%26+Cloud"
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=01&pause=1000&color=689FF7&width=300&center=true&vCenter=true&lines=Tools+%26+Cloud"
         alt="Tools & Cloud"
       />
     </a>
@@ -269,40 +272,29 @@
 
   <br>
 
-  <table
-    border="0"
-    cellpadding="0"
-    cellspacing="0"
-    width="100%"
-  >
-    <tr>
-      <!-- GitHub Stats -->
-      <td align="center" width="32%" valign="middle">
-        <img
-          height="195"
-          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&icon_color=79A9FF&border_color=689FF7"
-          alt="GitHub Stats"
-        />
-      </td>
-      <!-- GitHub Streak -->
-      <td align="center" width="38%" valign="middle">
-        <img
-          height="195"
+
+<p align="center">
+   <img
+    height="135"
+     align="center"
+    src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=EuKaueCMP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&icon_color=79A9FF&border_color=689FF7"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+          height="155"
+    align="center"
           src="https://github-readme-streak-stats.herokuapp.com/?user=EuKaueCMP&hide_border=true&background=16161E&stroke=689FF7&ring=689FF7&fire=79A9FF&currStreakNum=F2F4F8&sideNums=E4E4E7&currStreakLabel=689FF7&sideLabels=C7D0E3&dates=8B96AB"
           alt="GitHub Streak"
         />
-      </td>
-      <!-- Top Languages -->
-      <td align="center" width="30%" valign="middle">
-        <img
-          height="195"
+  &nbsp;&nbsp;
+  <img
+          height="135"
+    align="center"
           src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=EuKaueCMP&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=7CB2FF&text_color=E4E4E7&border_color=689FF7"
           alt="Most Used Languages"
         />
-      </td>
-    </tr>
-  </table>
-</div>
+</p>
 
 
 <br><br>
