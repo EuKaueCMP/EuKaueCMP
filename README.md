@@ -1,10 +1,13 @@
 <!-- Título / Abertura -->
+
 <div align="center">
+
   <!-- Cabeçalho com typing svg -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Hello+I%27m+Kau%C3%AACMP!"
     alt="Typing SVG"
   />
+
   <!-- Barra -->
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
@@ -39,6 +42,7 @@
   <br>
 
   <!-- Chips de foco rápido -->
+
   <code style="color: #79A9FF;">Clean Architecture</code>
   &nbsp;&bull;&nbsp;
   <code style="color: #79A9FF;">Domain-Driven Design (DDD)</code>
@@ -46,11 +50,14 @@
   <code style="color: #79A9FF;">Design Patterns</code>
   &nbsp;&bull;&nbsp;
   <code style="color: #79A9FF;">SOLID & OOP</code>
+
 </div>
 
 <br><br>
 
+
 <!-- Freeman GIF's -->
+
 <table width="80%" border="0" align="center">
   <tr>
     <td align="left" width="30%">
@@ -79,12 +86,16 @@
 
 <br><br>
 
+
 <!-- Ferramentas e tecnologias -->
+
 <div align="center">
+
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Tools+and+Technologies"
     alt="Typing SVG"
   />
+
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
     width="100%"
@@ -93,7 +104,9 @@
 
   <p>&nbsp;</p>
 
+
   <!-- Tabela: Ferramentas e tecnologias -->
+
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
       <!-- ==================== BACK-END ==================== -->
@@ -160,7 +173,7 @@
               padding:8px;
               border-radius:10px;
               vertical-align:top;
-              margin-left:10px;
+              margin-left:8px;
             "
           />
         </p>
@@ -246,16 +259,20 @@
 <!-- ====================================================== -->
 
 <div align="center">
+
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=Github+Stats"
     alt="Typing SVG"
   />
+
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
     width="100%"
     align="center"
   />
-  <br>
+
+  <br><br>
+
   <table
     border="0"
     cellpadding="0"
@@ -291,17 +308,21 @@
   </table>
 </div>
 
+
 <br><br>
+
 
 <!-- ====================================================== -->
 <!-- 2026 GOALS                                             -->
 <!-- ====================================================== -->
 
 <div align="center">
+
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=2026+Goals"
     alt="Typing SVG"
   />
+
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
     width="100%"
@@ -329,7 +350,8 @@
             color:#C7D0E3;
             line-height:1.8;
             font-size:1.05em;
-          ">
+          "
+        >
           <li>
             Find my first opportunity in the software development market
           </li>
@@ -363,7 +385,9 @@
 
 <!-- Footer -->
 <div align="center">
+
   <p style="color:#8B96AB; font-size:0.85em;">
     <i>@EuKaueCMP</i>
   </p>
+
 </div>
