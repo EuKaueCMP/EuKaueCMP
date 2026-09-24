@@ -140,8 +140,6 @@
     &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=postgres" style="vertical-align: middle;" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql" style="vertical-align: middle;" />
-    &nbsp;&nbsp;
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
       width="48"
