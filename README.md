@@ -304,66 +304,82 @@
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=2026+Goals"
-    alt="Typing SVG"
-  />
+  <!-- Section Title -->
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
-    width="100%"
-    align="center"
-  />
+<img
+ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=10000&color=7CB2FF&center=true&vCenter=true&width=900&lines=2026+Goals"
+ alt="2026 Goals"
+/>
+
+  <!-- Divider -->
+
+<img
+ src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:689FF7,100:16161E&height=3"
+ width="100%"
+ alt="Divider"
+/>
 
   <p>&nbsp;</p>
+
+  <!-- Goals Table -->
 
   <table
     width="80%"
     border="0"
     cellpadding="8"
+    cellspacing="0"
+    align="center"
     style="
-      border:1px solid rgba(104,159,247,0.3);
-      border-radius:12px;
-      background-color:#16161E;
-      text-align:left;
+      border: 1px solid rgba(104, 159, 247, 0.3);
+      border-radius: 12px;
+      background-color: #16161E;
     "
   >
     <tr>
-      <td>
+      <td
+        align="left"
+        style="
+          text-align: left;
+          vertical-align: top;
+          color: #C7D0E3;
+          line-height: 1.8;
+          font-size: 1.05em;
+          padding: 20px 24px;
+        "
+      >
         <ul
           style="
-            padding-left:20px;
-            color:#C7D0E3;
-            line-height:1.8;
-            font-size:1.05em;
+            margin: 0;
+            padding-left: 20px;
+            text-align: left;
           "
         >
           <li>
             Find my first opportunity in the software development market
           </li>
-          <li>
-            Practice design patterns with
-            <strong style="color:#79A9FF;">ASP.NET Core</strong>
-            and
-            <strong style="color:#79A9FF;">EF Core</strong>,
-            including CQRS and Repository Pattern
-          </li>
-          <li>
-            Deepen my practical understanding of
-            <strong style="color:#79A9FF;">
-              Clean Architecture, Domain-Driven Design (DDD), and TDD
-            </strong>
-          </li>
-          <li>
-            Improve my
-            <strong style="color:#79A9FF;">
-              API design and backend architecture
-            </strong>
-            skills
-          </li>
-        </ul>
-      </td>
-    </tr>
+      <li>
+        Practice design patterns with
+        <strong style="color: #79A9FF;">ASP.NET Core</strong>
+        and
+        <strong style="color: #79A9FF;">EF Core</strong>,
+        including CQRS and Repository Pattern
+      </li>
+      <li>
+        Deepen my practical understanding of
+        <strong style="color: #79A9FF;">
+          Clean Architecture, Domain-Driven Design (DDD), and TDD
+        </strong>
+      </li>
+      <li>
+        Improve my
+        <strong style="color: #79A9FF;">
+          API design and backend architecture
+        </strong>
+        skills
+      </li>
+    </ul>
+  </td>
+</tr>
   </table>
 </div>
 
